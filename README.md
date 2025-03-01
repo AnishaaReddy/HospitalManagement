@@ -1,5 +1,5 @@
 # HospitalManagement
-This is a Hospital Management system created using C# console application in Microsoft visual studio
+This is a Hospital Management system created using C# console application in Microsoft visual studio. The data is stored in json format in txt files.
 
 DOT NET HOSPITAL MANAGEMENT SYSTEM
 
