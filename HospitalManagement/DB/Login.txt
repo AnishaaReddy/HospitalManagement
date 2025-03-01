@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "111",
+    "Password": "123P",
+    "UserRole": 1,
+    "Name": "Amy Jackson"
+  },
+  {
+    "Id": "112",
+    "Password": "123D",
+    "UserRole": 2,
+    "Name": "Jake Peralta"
+  },
+  {
+    "Id": "113",
+    "Password": "123A",
+    "UserRole": 3,
+    "Name": "Phil Dunphy"
+  },
+  {
+    "Id": "114",
+    "Password": "123D",
+    "UserRole": 2,
+    "Name": "n l"
+  }
+]

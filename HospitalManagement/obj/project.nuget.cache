@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1g59BbfcEUlajZkuoqKbTp19XwdlNACCz+y8wL/jMXHhK4qgpYfBaNidmlHYngfpE67+1UArSqauRbiLE4myCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anish\\OneDrive\\Documents\\Sem3\\dotnet\\HospitalManagement\\HospitalManagement\\HospitalManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anish\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

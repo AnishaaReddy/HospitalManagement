@@ -1,0 +1,41 @@
+[
+  {
+    "ID": "112",
+    "Details": {
+      "Full_Name": "Jake Peralta",
+      "Address": "Melbourne",
+      "Email": "jake123@gmail.com",
+      "Phone": "0422826599"
+    },
+    "Patients": {
+      "patient": [
+        {
+          "Patient_ID": "111",
+          "Patient_Full_Name": "Amy Jackson",
+          "Patient_Address": "Sydney",
+          "Patient_Email": "amy123@gmail.com",
+          "Patient_Phone": "0420826597",
+          "Doctor_Name": "Jake Peralta"
+        }
+      ]
+    },
+    "Appointments": {
+      "appts": []
+    }
+  },
+  {
+    "ID": "114",
+    "Details": {
+      "Full_Name": "n l",
+      "Address": "o 0 900 nsw",
+      "Email": "l",
+      "Phone": "p"
+    },
+    "Patients": {
+      "patient": null
+    },
+    "Appointments": {
+      "appts": null
+    }
+  }
+]
