@@ -33,16 +33,17 @@ Password: 123A
 
 The above passwords are also the default passwords when you create users with respective roles (“123D” for Doctor and “123P” for Patient).
 The data for this project is saved under the DB folder. The format used is JSON which is easy to read or update.
-Enums
+
+Enums:
 There are numerical enums defined for roles as following which is saved in Login.txt
 Patient =1;
 Doctor =2;
 Admin = 3;
 
-Database
+Database:
 Following are the txt files that save data:
-4.	Login txt: It has login details of every user and their specified roles.
-5.	PatientDB.txt: It stores all the patient details with their assigned doctors and appointment details.
-6.	DoctorDB.txt: It stores all the doctor details and their patient’s info like appointments.
+1)	Login txt: It has login details of every user and their specified roles.
+2)	PatientDB.txt: It stores all the patient details with their assigned doctors and appointment details.
+3)	DoctorDB.txt: It stores all the doctor details and their patient’s info like appointments.
 
 
